@@ -5,3 +5,4 @@ basics/geckodriver.log
 *.pdf
 *.log
 .DS_Store
+*.xml
