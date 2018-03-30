@@ -6,3 +6,4 @@ basics/geckodriver.log
 *.log
 .DS_Store
 *.xml
+*.xml

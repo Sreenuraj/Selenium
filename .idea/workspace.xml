@@ -11,23 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="find_elements.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basics/find_elements.py">
+      <file leaf-file-name="radio_checkbtn_example.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basics/radio_checkbtn_example.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="browser_intractions.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/basics/browser_intractions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-371">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -53,6 +41,9 @@
         <option value="$PROJECT_DIR$/basics/runSafaritest.py" />
         <option value="$PROJECT_DIR$/basics/find_elements.py" />
         <option value="$PROJECT_DIR$/basics/browser_intractions.py" />
+        <option value="$PROJECT_DIR$/basics/click_and_type_example.py" />
+        <option value="$PROJECT_DIR$/basics/find_element_state.py" />
+        <option value="$PROJECT_DIR$/basics/radio_checkbtn_example.py" />
       </list>
     </option>
   </component>
@@ -113,7 +104,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.browser_intractions">
+  <component name="RunManager" selected="Python.find_element_state">
     <configuration name="browser_intractions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,6 +118,42 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Selenium" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/browser_intractions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="click_and_type_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/click_and_type_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="find_element_state" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/find_element_state.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,56 +195,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="runChrometest" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Selenium" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/runChrometest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="runSafaritest" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Selenium" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/runSafaritest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.runChrometest" />
-      <item index="1" class="java.lang.String" itemvalue="Python.runSafaritest" />
-      <item index="2" class="java.lang.String" itemvalue="Python.find_elements" />
-      <item index="3" class="java.lang.String" itemvalue="Python.find_elements (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.browser_intractions" />
+      <item index="0" class="java.lang.String" itemvalue="Python.find_elements" />
+      <item index="1" class="java.lang.String" itemvalue="Python.find_elements (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.browser_intractions" />
+      <item index="3" class="java.lang.String" itemvalue="Python.click_and_type_example" />
+      <item index="4" class="java.lang.String" itemvalue="Python.find_element_state" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.browser_intractions" />
-        <item index="1" class="java.lang.String" itemvalue="Python.find_elements (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.find_elements" />
-        <item index="3" class="java.lang.String" itemvalue="Python.runSafaritest" />
-        <item index="4" class="java.lang.String" itemvalue="Python.runChrometest" />
+        <item index="0" class="java.lang.String" itemvalue="Python.find_element_state" />
+        <item index="1" class="java.lang.String" itemvalue="Python.click_and_type_example" />
+        <item index="2" class="java.lang.String" itemvalue="Python.browser_intractions" />
+        <item index="3" class="java.lang.String" itemvalue="Python.find_elements (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.find_elements" />
       </list>
     </recent_temporary>
   </component>
@@ -343,6 +334,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-371">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics/click_and_type_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics/find_element_state.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics/radio_checkbtn_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
